@@ -10,7 +10,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General info
-This project is a mockup ecommerce website that sells sports clothing. It allows the client to create a user, add products to the cart, and pay for said products.
+This project is a mockup ecommerce website that sells sports clothing. It allows the client to create a user, add products to the cart, and pay for said products. The styling of the website is completely done with vanilla CSS, and the website is made to be mobile friendly.
 	
 ## Technologies
 Project is created with:
